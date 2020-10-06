@@ -1,4 +1,6 @@
-
+input : d3ZucXN0b2tib2xlamp5ZW5zdnlicGpsa3VhcGx2
+ 
+ 
 --> represents the output obtained by some online decryptors(dcode.fr)
 
 ==> represents the output obtained by the code implemented by me
