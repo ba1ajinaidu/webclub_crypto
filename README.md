@@ -2,7 +2,7 @@
 cryptography task of system and security SIG
 
 The repository contains two files crypt.c and crypt.txt
-crypt.c is a single C program to implement the entire task of decryption of the string
+crypt.c is a single C program to implement the entire task of decryption of the string \n
     input :  d3ZucXN0b2tib2xlamp5ZW5zdnlicGpsa3VhcGx2
     
 crypt.txt contains the exact message which was encrypted using 5 algorithms
